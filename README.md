@@ -1,4 +1,4 @@
 # deepak-first
 This is my first Git repository
 <br>
-Author - Deepak Saini
+Author - Deepak Saini student.
